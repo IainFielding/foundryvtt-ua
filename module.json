@@ -115,7 +115,7 @@
     "hotReload": false,
     "dnd5e": {
         "sourceBooks": {
-            "Unearthed Arcana": "SOURCE.BOOK.UA"
+            "Unearthed Arcana": "Unearthed Arcana"
         }
       }
     }
