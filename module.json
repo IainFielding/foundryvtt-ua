@@ -1,6 +1,6 @@
 {
-  "id": "sogrom-unearthed-arcana",
-  "title": "Unearthed Arcana",
+  "id": "sogrom-unearthed-arcana-frs",
+  "title": "Unearthed Arcana - Forgoten Realms Subclasses",
   "description": "",
   "version": "#{VERSION}#",
   "library": "false",
@@ -53,7 +53,7 @@
   "packs": [
     {
       "name": "content",
-      "label": "Content",
+      "label": "Forgotten Realms Subclasses",
       "path": "packs/content",
       "type": "JournalEntry",
       "ownership": {
